@@ -1,0 +1,7 @@
+D:\Homework\Homework\ДР - Информатика\12 клас\transport_mvc\transport_mvc\bin\Debug\transport_mvc.exe.config
+D:\Homework\Homework\ДР - Информатика\12 клас\transport_mvc\transport_mvc\bin\Debug\transport_mvc.exe
+D:\Homework\Homework\ДР - Информатика\12 клас\transport_mvc\transport_mvc\bin\Debug\transport_mvc.pdb
+D:\Homework\Homework\ДР - Информатика\12 клас\transport_mvc\transport_mvc\obj\Debug\transport_mvc.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\12 клас\transport_mvc\transport_mvc\obj\Debug\transport_mvc.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\12 клас\transport_mvc\transport_mvc\obj\Debug\transport_mvc.exe
+D:\Homework\Homework\ДР - Информатика\12 клас\transport_mvc\transport_mvc\obj\Debug\transport_mvc.pdb
