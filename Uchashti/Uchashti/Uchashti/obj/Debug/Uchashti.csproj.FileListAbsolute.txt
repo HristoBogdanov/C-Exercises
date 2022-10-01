@@ -1,0 +1,7 @@
+C:\Users\12 V 2_13\Desktop\Информатика\Uchashti\Uchashti\bin\Debug\Uchashti.exe.config
+C:\Users\12 V 2_13\Desktop\Информатика\Uchashti\Uchashti\bin\Debug\Uchashti.exe
+C:\Users\12 V 2_13\Desktop\Информатика\Uchashti\Uchashti\bin\Debug\Uchashti.pdb
+C:\Users\12 V 2_13\Desktop\Информатика\Uchashti\Uchashti\obj\Debug\Uchashti.csproj.AssemblyReference.cache
+C:\Users\12 V 2_13\Desktop\Информатика\Uchashti\Uchashti\obj\Debug\Uchashti.csproj.CoreCompileInputs.cache
+C:\Users\12 V 2_13\Desktop\Информатика\Uchashti\Uchashti\obj\Debug\Uchashti.exe
+C:\Users\12 V 2_13\Desktop\Информатика\Uchashti\Uchashti\obj\Debug\Uchashti.pdb
