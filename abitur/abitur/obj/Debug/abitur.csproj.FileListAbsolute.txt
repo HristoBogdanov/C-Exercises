@@ -1,0 +1,10 @@
+D:\Homework\Homework\ДР - Информатика\abitur\abitur\bin\Debug\abitur.exe.config
+D:\Homework\Homework\ДР - Информатика\abitur\abitur\bin\Debug\abitur.exe
+D:\Homework\Homework\ДР - Информатика\abitur\abitur\bin\Debug\abitur.pdb
+D:\Homework\Homework\ДР - Информатика\abitur\abitur\obj\Debug\abitur.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\abitur\abitur\obj\Debug\abitur.Form1.resources
+D:\Homework\Homework\ДР - Информатика\abitur\abitur\obj\Debug\abitur.Properties.Resources.resources
+D:\Homework\Homework\ДР - Информатика\abitur\abitur\obj\Debug\abitur.csproj.GenerateResource.cache
+D:\Homework\Homework\ДР - Информатика\abitur\abitur\obj\Debug\abitur.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\abitur\abitur\obj\Debug\abitur.exe
+D:\Homework\Homework\ДР - Информатика\abitur\abitur\obj\Debug\abitur.pdb
