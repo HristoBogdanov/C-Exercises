@@ -1,0 +1,10 @@
+D:\Homework\ДР - Информатика\Archery\Archery\bin\Debug\Archery.exe.config
+D:\Homework\ДР - Информатика\Archery\Archery\bin\Debug\Archery.exe
+D:\Homework\ДР - Информатика\Archery\Archery\bin\Debug\Archery.pdb
+D:\Homework\ДР - Информатика\Archery\Archery\obj\Debug\Archery.csprojAssemblyReference.cache
+D:\Homework\ДР - Информатика\Archery\Archery\obj\Debug\Archery.Form1.resources
+D:\Homework\ДР - Информатика\Archery\Archery\obj\Debug\Archery.Properties.Resources.resources
+D:\Homework\ДР - Информатика\Archery\Archery\obj\Debug\Archery.csproj.GenerateResource.cache
+D:\Homework\ДР - Информатика\Archery\Archery\obj\Debug\Archery.csproj.CoreCompileInputs.cache
+D:\Homework\ДР - Информатика\Archery\Archery\obj\Debug\Archery.exe
+D:\Homework\ДР - Информатика\Archery\Archery\obj\Debug\Archery.pdb
