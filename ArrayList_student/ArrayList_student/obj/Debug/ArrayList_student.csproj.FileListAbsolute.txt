@@ -1,0 +1,10 @@
+D:\Homework\ДР - Информатика\ArrayList_student\ArrayList_student\bin\Debug\ArrayList_student.exe.config
+D:\Homework\ДР - Информатика\ArrayList_student\ArrayList_student\bin\Debug\ArrayList_student.exe
+D:\Homework\ДР - Информатика\ArrayList_student\ArrayList_student\bin\Debug\ArrayList_student.pdb
+D:\Homework\ДР - Информатика\ArrayList_student\ArrayList_student\obj\Debug\ArrayList_student.csprojAssemblyReference.cache
+D:\Homework\ДР - Информатика\ArrayList_student\ArrayList_student\obj\Debug\ArrayList_student.Form1.resources
+D:\Homework\ДР - Информатика\ArrayList_student\ArrayList_student\obj\Debug\ArrayList_student.Properties.Resources.resources
+D:\Homework\ДР - Информатика\ArrayList_student\ArrayList_student\obj\Debug\ArrayList_student.csproj.GenerateResource.cache
+D:\Homework\ДР - Информатика\ArrayList_student\ArrayList_student\obj\Debug\ArrayList_student.csproj.CoreCompileInputs.cache
+D:\Homework\ДР - Информатика\ArrayList_student\ArrayList_student\obj\Debug\ArrayList_student.exe
+D:\Homework\ДР - Информатика\ArrayList_student\ArrayList_student\obj\Debug\ArrayList_student.pdb
