@@ -1,0 +1,7 @@
+D:\Homework\Homework\ДР - Информатика\basein\basein\bin\Debug\basein.exe.config
+D:\Homework\Homework\ДР - Информатика\basein\basein\bin\Debug\basein.exe
+D:\Homework\Homework\ДР - Информатика\basein\basein\bin\Debug\basein.pdb
+D:\Homework\Homework\ДР - Информатика\basein\basein\obj\Debug\basein.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\basein\basein\obj\Debug\basein.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\basein\basein\obj\Debug\basein.exe
+D:\Homework\Homework\ДР - Информатика\basein\basein\obj\Debug\basein.pdb
