@@ -1,0 +1,7 @@
+D:\Homework\Homework\ДР - Информатика\Bank_acc\Bank_acc\bin\Debug\Bank_acc.exe.config
+D:\Homework\Homework\ДР - Информатика\Bank_acc\Bank_acc\bin\Debug\Bank_acc.exe
+D:\Homework\Homework\ДР - Информатика\Bank_acc\Bank_acc\bin\Debug\Bank_acc.pdb
+D:\Homework\Homework\ДР - Информатика\Bank_acc\Bank_acc\obj\Debug\Bank_acc.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\Bank_acc\Bank_acc\obj\Debug\Bank_acc.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\Bank_acc\Bank_acc\obj\Debug\Bank_acc.exe
+D:\Homework\Homework\ДР - Информатика\Bank_acc\Bank_acc\obj\Debug\Bank_acc.pdb
