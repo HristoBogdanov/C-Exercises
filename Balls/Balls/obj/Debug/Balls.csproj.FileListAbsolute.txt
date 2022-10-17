@@ -1,0 +1,10 @@
+D:\Homework\ДР - Информатика\Balls\Balls\bin\Debug\Balls.exe.config
+D:\Homework\ДР - Информатика\Balls\Balls\bin\Debug\Balls.exe
+D:\Homework\ДР - Информатика\Balls\Balls\bin\Debug\Balls.pdb
+D:\Homework\ДР - Информатика\Balls\Balls\obj\Debug\Balls.csprojAssemblyReference.cache
+D:\Homework\ДР - Информатика\Balls\Balls\obj\Debug\Balls.Form1.resources
+D:\Homework\ДР - Информатика\Balls\Balls\obj\Debug\Balls.Properties.Resources.resources
+D:\Homework\ДР - Информатика\Balls\Balls\obj\Debug\Balls.csproj.GenerateResource.cache
+D:\Homework\ДР - Информатика\Balls\Balls\obj\Debug\Balls.csproj.CoreCompileInputs.cache
+D:\Homework\ДР - Информатика\Balls\Balls\obj\Debug\Balls.exe
+D:\Homework\ДР - Информатика\Balls\Balls\obj\Debug\Balls.pdb
