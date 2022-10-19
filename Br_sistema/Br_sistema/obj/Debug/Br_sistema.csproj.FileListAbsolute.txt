@@ -1,0 +1,10 @@
+D:\Homework\ДР - Информатика\Br_sistema\Br_sistema\bin\Debug\Br_sistema.exe.config
+D:\Homework\ДР - Информатика\Br_sistema\Br_sistema\bin\Debug\Br_sistema.exe
+D:\Homework\ДР - Информатика\Br_sistema\Br_sistema\bin\Debug\Br_sistema.pdb
+D:\Homework\ДР - Информатика\Br_sistema\Br_sistema\obj\Debug\Br_sistema.csprojAssemblyReference.cache
+D:\Homework\ДР - Информатика\Br_sistema\Br_sistema\obj\Debug\Br_sistema.Form1.resources
+D:\Homework\ДР - Информатика\Br_sistema\Br_sistema\obj\Debug\Br_sistema.Properties.Resources.resources
+D:\Homework\ДР - Информатика\Br_sistema\Br_sistema\obj\Debug\Br_sistema.csproj.GenerateResource.cache
+D:\Homework\ДР - Информатика\Br_sistema\Br_sistema\obj\Debug\Br_sistema.csproj.CoreCompileInputs.cache
+D:\Homework\ДР - Информатика\Br_sistema\Br_sistema\obj\Debug\Br_sistema.exe
+D:\Homework\ДР - Информатика\Br_sistema\Br_sistema\obj\Debug\Br_sistema.pdb
