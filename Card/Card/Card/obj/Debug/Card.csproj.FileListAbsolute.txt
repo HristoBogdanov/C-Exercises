@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ДР - Информатика\Card\Card\Card\bin\Debug\Card.exe.config
+C:\Users\user\Desktop\ДР - Информатика\Card\Card\Card\bin\Debug\Card.exe
+C:\Users\user\Desktop\ДР - Информатика\Card\Card\Card\bin\Debug\Card.pdb
+C:\Users\user\Desktop\ДР - Информатика\Card\Card\Card\obj\Debug\Card.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\Card\Card\Card\obj\Debug\Card.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\Card\Card\Card\obj\Debug\Card.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\Card\Card\Card\obj\Debug\Card.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\Card\Card\Card\obj\Debug\Card.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\Card\Card\Card\obj\Debug\Card.exe
+C:\Users\user\Desktop\ДР - Информатика\Card\Card\Card\obj\Debug\Card.pdb
