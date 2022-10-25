@@ -1,0 +1,10 @@
+D:\Homework\ДР - Информатика\Concert\Concert\bin\Debug\Concert.exe.config
+D:\Homework\ДР - Информатика\Concert\Concert\bin\Debug\Concert.exe
+D:\Homework\ДР - Информатика\Concert\Concert\bin\Debug\Concert.pdb
+D:\Homework\ДР - Информатика\Concert\Concert\obj\Debug\Concert.csprojAssemblyReference.cache
+D:\Homework\ДР - Информатика\Concert\Concert\obj\Debug\Concert.Form1.resources
+D:\Homework\ДР - Информатика\Concert\Concert\obj\Debug\Concert.Properties.Resources.resources
+D:\Homework\ДР - Информатика\Concert\Concert\obj\Debug\Concert.csproj.GenerateResource.cache
+D:\Homework\ДР - Информатика\Concert\Concert\obj\Debug\Concert.csproj.CoreCompileInputs.cache
+D:\Homework\ДР - Информатика\Concert\Concert\obj\Debug\Concert.exe
+D:\Homework\ДР - Информатика\Concert\Concert\obj\Debug\Concert.pdb
