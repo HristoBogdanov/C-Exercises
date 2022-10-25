@@ -1,0 +1,7 @@
+D:\Homework\Homework\ДР - Информатика\ChristmasPresent\ChristmasPresent\bin\Debug\ChristmasPresent.exe.config
+D:\Homework\Homework\ДР - Информатика\ChristmasPresent\ChristmasPresent\bin\Debug\ChristmasPresent.exe
+D:\Homework\Homework\ДР - Информатика\ChristmasPresent\ChristmasPresent\bin\Debug\ChristmasPresent.pdb
+D:\Homework\Homework\ДР - Информатика\ChristmasPresent\ChristmasPresent\obj\Debug\ChristmasPresent.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\ChristmasPresent\ChristmasPresent\obj\Debug\ChristmasPresent.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\ChristmasPresent\ChristmasPresent\obj\Debug\ChristmasPresent.exe
+D:\Homework\Homework\ДР - Информатика\ChristmasPresent\ChristmasPresent\obj\Debug\ChristmasPresent.pdb
