@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ДР - Информатика\Citizen\Citizen\bin\Debug\Citizen.exe.config
+C:\Users\user\Desktop\ДР - Информатика\Citizen\Citizen\bin\Debug\Citizen.exe
+C:\Users\user\Desktop\ДР - Информатика\Citizen\Citizen\bin\Debug\Citizen.pdb
+C:\Users\user\Desktop\ДР - Информатика\Citizen\Citizen\obj\Debug\Citizen.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\Citizen\Citizen\obj\Debug\Citizen.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\Citizen\Citizen\obj\Debug\Citizen.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\Citizen\Citizen\obj\Debug\Citizen.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\Citizen\Citizen\obj\Debug\Citizen.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\Citizen\Citizen\obj\Debug\Citizen.exe
+C:\Users\user\Desktop\ДР - Информатика\Citizen\Citizen\obj\Debug\Citizen.pdb
