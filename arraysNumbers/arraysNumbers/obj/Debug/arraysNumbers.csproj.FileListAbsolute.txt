@@ -1,0 +1,7 @@
+D:\Homework\Homework\ДР - Информатика\arraysNumbers\arraysNumbers\bin\Debug\arraysNumbers.exe.config
+D:\Homework\Homework\ДР - Информатика\arraysNumbers\arraysNumbers\bin\Debug\arraysNumbers.exe
+D:\Homework\Homework\ДР - Информатика\arraysNumbers\arraysNumbers\bin\Debug\arraysNumbers.pdb
+D:\Homework\Homework\ДР - Информатика\arraysNumbers\arraysNumbers\obj\Debug\arraysNumbers.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\arraysNumbers\arraysNumbers\obj\Debug\arraysNumbers.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\arraysNumbers\arraysNumbers\obj\Debug\arraysNumbers.exe
+D:\Homework\Homework\ДР - Информатика\arraysNumbers\arraysNumbers\obj\Debug\arraysNumbers.pdb
