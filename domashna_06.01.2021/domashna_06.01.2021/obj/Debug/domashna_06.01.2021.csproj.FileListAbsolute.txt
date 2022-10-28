@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ДР - Информатика\domashna_06.01.2021\domashna_06.01.2021\bin\Debug\domashna_06.01.2021.exe.config
+C:\Users\user\Desktop\ДР - Информатика\domashna_06.01.2021\domashna_06.01.2021\bin\Debug\domashna_06.01.2021.exe
+C:\Users\user\Desktop\ДР - Информатика\domashna_06.01.2021\domashna_06.01.2021\bin\Debug\domashna_06.01.2021.pdb
+C:\Users\user\Desktop\ДР - Информатика\domashna_06.01.2021\domashna_06.01.2021\obj\Debug\domashna_06.01.2021.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\domashna_06.01.2021\domashna_06.01.2021\obj\Debug\domashna_06._01._2021.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\domashna_06.01.2021\domashna_06.01.2021\obj\Debug\domashna_06._01._2021.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\domashna_06.01.2021\domashna_06.01.2021\obj\Debug\domashna_06.01.2021.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\domashna_06.01.2021\domashna_06.01.2021\obj\Debug\domashna_06.01.2021.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\domashna_06.01.2021\domashna_06.01.2021\obj\Debug\domashna_06.01.2021.exe
+C:\Users\user\Desktop\ДР - Информатика\domashna_06.01.2021\domashna_06.01.2021\obj\Debug\domashna_06.01.2021.pdb
