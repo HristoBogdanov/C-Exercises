@@ -1,0 +1,10 @@
+D:\Homework\ДР - Информатика\Doctor\Doctor\bin\Debug\Doctor.exe.config
+D:\Homework\ДР - Информатика\Doctor\Doctor\bin\Debug\Doctor.exe
+D:\Homework\ДР - Информатика\Doctor\Doctor\bin\Debug\Doctor.pdb
+D:\Homework\ДР - Информатика\Doctor\Doctor\obj\Debug\Doctor.csprojAssemblyReference.cache
+D:\Homework\ДР - Информатика\Doctor\Doctor\obj\Debug\Doctor.Form1.resources
+D:\Homework\ДР - Информатика\Doctor\Doctor\obj\Debug\Doctor.Properties.Resources.resources
+D:\Homework\ДР - Информатика\Doctor\Doctor\obj\Debug\Doctor.csproj.GenerateResource.cache
+D:\Homework\ДР - Информатика\Doctor\Doctor\obj\Debug\Doctor.csproj.CoreCompileInputs.cache
+D:\Homework\ДР - Информатика\Doctor\Doctor\obj\Debug\Doctor.exe
+D:\Homework\ДР - Информатика\Doctor\Doctor\obj\Debug\Doctor.pdb
