@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\COVID-19\Form_Color\Form_Color\bin\Debug\Form_Color.exe.config
+C:\Users\user\Desktop\COVID-19\Form_Color\Form_Color\bin\Debug\Form_Color.exe
+C:\Users\user\Desktop\COVID-19\Form_Color\Form_Color\bin\Debug\Form_Color.pdb
+C:\Users\user\Desktop\COVID-19\Form_Color\Form_Color\obj\Debug\Form_Color.csprojAssemblyReference.cache
+C:\Users\user\Desktop\COVID-19\Form_Color\Form_Color\obj\Debug\Form_Color.Form1.resources
+C:\Users\user\Desktop\COVID-19\Form_Color\Form_Color\obj\Debug\Form_Color.Properties.Resources.resources
+C:\Users\user\Desktop\COVID-19\Form_Color\Form_Color\obj\Debug\Form_Color.csproj.GenerateResource.cache
+C:\Users\user\Desktop\COVID-19\Form_Color\Form_Color\obj\Debug\Form_Color.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\COVID-19\Form_Color\Form_Color\obj\Debug\Form_Color.exe
+C:\Users\user\Desktop\COVID-19\Form_Color\Form_Color\obj\Debug\Form_Color.pdb
+C:\Users\user\Desktop\COVID-19\Form_Color\Form_Color\obj\Debug\Form_Color.Form2.resources
