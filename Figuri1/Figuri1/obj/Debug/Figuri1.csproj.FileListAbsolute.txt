@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ДР - Информатика\Figuri1\Figuri1\bin\Debug\Figuri1.exe.config
+C:\Users\user\Desktop\ДР - Информатика\Figuri1\Figuri1\bin\Debug\Figuri1.exe
+C:\Users\user\Desktop\ДР - Информатика\Figuri1\Figuri1\bin\Debug\Figuri1.pdb
+C:\Users\user\Desktop\ДР - Информатика\Figuri1\Figuri1\obj\Debug\Figuri1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\Figuri1\Figuri1\obj\Debug\Figuri1.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\Figuri1\Figuri1\obj\Debug\Figuri1.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\Figuri1\Figuri1\obj\Debug\Figuri1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\Figuri1\Figuri1\obj\Debug\Figuri1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\Figuri1\Figuri1\obj\Debug\Figuri1.exe
+C:\Users\user\Desktop\ДР - Информатика\Figuri1\Figuri1\obj\Debug\Figuri1.pdb
