@@ -1,0 +1,10 @@
+D:\Homework\ДР - Информатика\Firm\Firm\bin\Debug\Firm.exe.config
+D:\Homework\ДР - Информатика\Firm\Firm\bin\Debug\Firm.exe
+D:\Homework\ДР - Информатика\Firm\Firm\bin\Debug\Firm.pdb
+D:\Homework\ДР - Информатика\Firm\Firm\obj\Debug\Firm.csprojAssemblyReference.cache
+D:\Homework\ДР - Информатика\Firm\Firm\obj\Debug\Firm.Form1.resources
+D:\Homework\ДР - Информатика\Firm\Firm\obj\Debug\Firm.Properties.Resources.resources
+D:\Homework\ДР - Информатика\Firm\Firm\obj\Debug\Firm.csproj.GenerateResource.cache
+D:\Homework\ДР - Информатика\Firm\Firm\obj\Debug\Firm.csproj.CoreCompileInputs.cache
+D:\Homework\ДР - Информатика\Firm\Firm\obj\Debug\Firm.exe
+D:\Homework\ДР - Информатика\Firm\Firm\obj\Debug\Firm.pdb
