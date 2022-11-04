@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ДР - Информатика\Kemper\Kemper\Kemper\bin\Debug\Kemper.exe.config
+C:\Users\user\Desktop\ДР - Информатика\Kemper\Kemper\Kemper\bin\Debug\Kemper.exe
+C:\Users\user\Desktop\ДР - Информатика\Kemper\Kemper\Kemper\bin\Debug\Kemper.pdb
+C:\Users\user\Desktop\ДР - Информатика\Kemper\Kemper\Kemper\obj\Debug\Kemper.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\Kemper\Kemper\Kemper\obj\Debug\Kemper.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\Kemper\Kemper\Kemper\obj\Debug\Kemper.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\Kemper\Kemper\Kemper\obj\Debug\Kemper.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\Kemper\Kemper\Kemper\obj\Debug\Kemper.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\Kemper\Kemper\Kemper\obj\Debug\Kemper.exe
+C:\Users\user\Desktop\ДР - Информатика\Kemper\Kemper\Kemper\obj\Debug\Kemper.pdb
