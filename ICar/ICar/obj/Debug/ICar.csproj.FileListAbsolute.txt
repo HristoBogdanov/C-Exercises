@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ДР - Информатика\ICar\ICar\bin\Debug\ICar.exe.config
+C:\Users\user\Desktop\ДР - Информатика\ICar\ICar\bin\Debug\ICar.exe
+C:\Users\user\Desktop\ДР - Информатика\ICar\ICar\bin\Debug\ICar.pdb
+C:\Users\user\Desktop\ДР - Информатика\ICar\ICar\obj\Debug\ICar.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\ICar\ICar\obj\Debug\ICar.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\ICar\ICar\obj\Debug\ICar.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\ICar\ICar\obj\Debug\ICar.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\ICar\ICar\obj\Debug\ICar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\ICar\ICar\obj\Debug\ICar.exe
+C:\Users\user\Desktop\ДР - Информатика\ICar\ICar\obj\Debug\ICar.pdb
