@@ -1,0 +1,14 @@
+D:\Homework\Homework\ДР - Информатика\KSI - Masivi_Sort\KSI - Masivi_Sort\bin\Debug\netcoreapp3.1\KSI - Masivi_Sort.exe
+D:\Homework\Homework\ДР - Информатика\KSI - Masivi_Sort\KSI - Masivi_Sort\bin\Debug\netcoreapp3.1\KSI - Masivi_Sort.deps.json
+D:\Homework\Homework\ДР - Информатика\KSI - Masivi_Sort\KSI - Masivi_Sort\bin\Debug\netcoreapp3.1\KSI - Masivi_Sort.runtimeconfig.json
+D:\Homework\Homework\ДР - Информатика\KSI - Masivi_Sort\KSI - Masivi_Sort\bin\Debug\netcoreapp3.1\KSI - Masivi_Sort.runtimeconfig.dev.json
+D:\Homework\Homework\ДР - Информатика\KSI - Masivi_Sort\KSI - Masivi_Sort\bin\Debug\netcoreapp3.1\KSI - Masivi_Sort.dll
+D:\Homework\Homework\ДР - Информатика\KSI - Masivi_Sort\KSI - Masivi_Sort\bin\Debug\netcoreapp3.1\KSI - Masivi_Sort.pdb
+D:\Homework\Homework\ДР - Информатика\KSI - Masivi_Sort\KSI - Masivi_Sort\obj\Debug\netcoreapp3.1\KSI - Masivi_Sort.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\KSI - Masivi_Sort\KSI - Masivi_Sort\obj\Debug\netcoreapp3.1\KSI - Masivi_Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\Homework\ДР - Информатика\KSI - Masivi_Sort\KSI - Masivi_Sort\obj\Debug\netcoreapp3.1\KSI - Masivi_Sort.AssemblyInfoInputs.cache
+D:\Homework\Homework\ДР - Информатика\KSI - Masivi_Sort\KSI - Masivi_Sort\obj\Debug\netcoreapp3.1\KSI - Masivi_Sort.AssemblyInfo.cs
+D:\Homework\Homework\ДР - Информатика\KSI - Masivi_Sort\KSI - Masivi_Sort\obj\Debug\netcoreapp3.1\KSI - Masivi_Sort.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\KSI - Masivi_Sort\KSI - Masivi_Sort\obj\Debug\netcoreapp3.1\KSI - Masivi_Sort.dll
+D:\Homework\Homework\ДР - Информатика\KSI - Masivi_Sort\KSI - Masivi_Sort\obj\Debug\netcoreapp3.1\KSI - Masivi_Sort.pdb
+D:\Homework\Homework\ДР - Информатика\KSI - Masivi_Sort\KSI - Masivi_Sort\obj\Debug\netcoreapp3.1\KSI - Masivi_Sort.genruntimeconfig.cache
