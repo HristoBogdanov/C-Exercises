@@ -1,0 +1,10 @@
+D:\Homework\Homework\ДР - Информатика\KSI_2017_2\KSI_2017_2\bin\Debug\KSI_2017_2.exe.config
+D:\Homework\Homework\ДР - Информатика\KSI_2017_2\KSI_2017_2\bin\Debug\KSI_2017_2.exe
+D:\Homework\Homework\ДР - Информатика\KSI_2017_2\KSI_2017_2\bin\Debug\KSI_2017_2.pdb
+D:\Homework\Homework\ДР - Информатика\KSI_2017_2\KSI_2017_2\obj\Debug\KSI_2017_2.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\KSI_2017_2\KSI_2017_2\obj\Debug\KSI_2017_2.Form1.resources
+D:\Homework\Homework\ДР - Информатика\KSI_2017_2\KSI_2017_2\obj\Debug\KSI_2017_2.Properties.Resources.resources
+D:\Homework\Homework\ДР - Информатика\KSI_2017_2\KSI_2017_2\obj\Debug\KSI_2017_2.csproj.GenerateResource.cache
+D:\Homework\Homework\ДР - Информатика\KSI_2017_2\KSI_2017_2\obj\Debug\KSI_2017_2.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\KSI_2017_2\KSI_2017_2\obj\Debug\KSI_2017_2.exe
+D:\Homework\Homework\ДР - Информатика\KSI_2017_2\KSI_2017_2\obj\Debug\KSI_2017_2.pdb
