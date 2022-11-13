@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ДР - Информатика\Magicheski_kvadrat\Magicheski_kvadrat\Magicheski_kvadrat\bin\Debug\Magicheski_kvadrat.exe.config
+C:\Users\user\Desktop\ДР - Информатика\Magicheski_kvadrat\Magicheski_kvadrat\Magicheski_kvadrat\bin\Debug\Magicheski_kvadrat.exe
+C:\Users\user\Desktop\ДР - Информатика\Magicheski_kvadrat\Magicheski_kvadrat\Magicheski_kvadrat\bin\Debug\Magicheski_kvadrat.pdb
+C:\Users\user\Desktop\ДР - Информатика\Magicheski_kvadrat\Magicheski_kvadrat\Magicheski_kvadrat\obj\Debug\Magicheski_kvadrat.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\Magicheski_kvadrat\Magicheski_kvadrat\Magicheski_kvadrat\obj\Debug\Magicheski_kvadrat.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\Magicheski_kvadrat\Magicheski_kvadrat\Magicheski_kvadrat\obj\Debug\Magicheski_kvadrat.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\Magicheski_kvadrat\Magicheski_kvadrat\Magicheski_kvadrat\obj\Debug\Magicheski_kvadrat.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\Magicheski_kvadrat\Magicheski_kvadrat\Magicheski_kvadrat\obj\Debug\Magicheski_kvadrat.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\Magicheski_kvadrat\Magicheski_kvadrat\Magicheski_kvadrat\obj\Debug\Magicheski_kvadrat.exe
+C:\Users\user\Desktop\ДР - Информатика\Magicheski_kvadrat\Magicheski_kvadrat\Magicheski_kvadrat\obj\Debug\Magicheski_kvadrat.pdb
