@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ДР - Информатика\Line\Line\bin\Debug\Line.exe.config
+C:\Users\user\Desktop\ДР - Информатика\Line\Line\bin\Debug\Line.exe
+C:\Users\user\Desktop\ДР - Информатика\Line\Line\bin\Debug\Line.pdb
+C:\Users\user\Desktop\ДР - Информатика\Line\Line\obj\Debug\Line.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\Line\Line\obj\Debug\Line.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\Line\Line\obj\Debug\Line.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\Line\Line\obj\Debug\Line.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\Line\Line\obj\Debug\Line.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\Line\Line\obj\Debug\Line.exe
+C:\Users\user\Desktop\ДР - Информатика\Line\Line\obj\Debug\Line.pdb
