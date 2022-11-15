@@ -1,0 +1,7 @@
+D:\Homework\Homework\ДР - Информатика\masivi_zad4\masivi_zad4\bin\Debug\masivi_zad4.exe.config
+D:\Homework\Homework\ДР - Информатика\masivi_zad4\masivi_zad4\bin\Debug\masivi_zad4.exe
+D:\Homework\Homework\ДР - Информатика\masivi_zad4\masivi_zad4\bin\Debug\masivi_zad4.pdb
+D:\Homework\Homework\ДР - Информатика\masivi_zad4\masivi_zad4\obj\Debug\masivi_zad4.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\masivi_zad4\masivi_zad4\obj\Debug\masivi_zad4.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\masivi_zad4\masivi_zad4\obj\Debug\masivi_zad4.exe
+D:\Homework\Homework\ДР - Информатика\masivi_zad4\masivi_zad4\obj\Debug\masivi_zad4.pdb
