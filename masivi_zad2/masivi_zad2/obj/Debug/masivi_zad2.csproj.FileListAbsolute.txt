@@ -1,0 +1,10 @@
+D:\Homework\Homework\ДР - Информатика\masivi_zad2\masivi_zad2\bin\Debug\masivi_zad2.exe.config
+D:\Homework\Homework\ДР - Информатика\masivi_zad2\masivi_zad2\bin\Debug\masivi_zad2.exe
+D:\Homework\Homework\ДР - Информатика\masivi_zad2\masivi_zad2\bin\Debug\masivi_zad2.pdb
+D:\Homework\Homework\ДР - Информатика\masivi_zad2\masivi_zad2\obj\Debug\masivi_zad2.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\masivi_zad2\masivi_zad2\obj\Debug\masivi_zad2.Form1.resources
+D:\Homework\Homework\ДР - Информатика\masivi_zad2\masivi_zad2\obj\Debug\masivi_zad2.Properties.Resources.resources
+D:\Homework\Homework\ДР - Информатика\masivi_zad2\masivi_zad2\obj\Debug\masivi_zad2.csproj.GenerateResource.cache
+D:\Homework\Homework\ДР - Информатика\masivi_zad2\masivi_zad2\obj\Debug\masivi_zad2.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\masivi_zad2\masivi_zad2\obj\Debug\masivi_zad2.exe
+D:\Homework\Homework\ДР - Информатика\masivi_zad2\masivi_zad2\obj\Debug\masivi_zad2.pdb
