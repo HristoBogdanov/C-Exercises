@@ -1,0 +1,7 @@
+D:\Homework\Homework\ДР - Информатика\matura_zadacha\matura_zadacha\bin\Debug\matura_zadacha.exe.config
+D:\Homework\Homework\ДР - Информатика\matura_zadacha\matura_zadacha\bin\Debug\matura_zadacha.exe
+D:\Homework\Homework\ДР - Информатика\matura_zadacha\matura_zadacha\bin\Debug\matura_zadacha.pdb
+D:\Homework\Homework\ДР - Информатика\matura_zadacha\matura_zadacha\obj\Debug\matura_zadacha.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\matura_zadacha\matura_zadacha\obj\Debug\matura_zadacha.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\matura_zadacha\matura_zadacha\obj\Debug\matura_zadacha.exe
+D:\Homework\Homework\ДР - Информатика\matura_zadacha\matura_zadacha\obj\Debug\matura_zadacha.pdb
