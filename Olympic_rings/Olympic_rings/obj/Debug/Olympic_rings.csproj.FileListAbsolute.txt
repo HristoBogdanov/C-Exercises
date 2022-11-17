@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ДР - Информатика\Olympic_rings\Olympic_rings\bin\Debug\Olympic_rings.exe.config
+C:\Users\user\Desktop\ДР - Информатика\Olympic_rings\Olympic_rings\bin\Debug\Olympic_rings.exe
+C:\Users\user\Desktop\ДР - Информатика\Olympic_rings\Olympic_rings\bin\Debug\Olympic_rings.pdb
+C:\Users\user\Desktop\ДР - Информатика\Olympic_rings\Olympic_rings\obj\Debug\Olympic_rings.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\Olympic_rings\Olympic_rings\obj\Debug\Olympic_rings.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\Olympic_rings\Olympic_rings\obj\Debug\Olympic_rings.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\Olympic_rings\Olympic_rings\obj\Debug\Olympic_rings.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\Olympic_rings\Olympic_rings\obj\Debug\Olympic_rings.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\Olympic_rings\Olympic_rings\obj\Debug\Olympic_rings.exe
+C:\Users\user\Desktop\ДР - Информатика\Olympic_rings\Olympic_rings\obj\Debug\Olympic_rings.pdb
