@@ -1,0 +1,7 @@
+Cheese 10 9,99
+Sausage 12 24,90
+Veal 5 8,89
+Chicken 15 7,90
+Pork 10 10,50
+Flour 9 1,56
+Sugar 16 2,20

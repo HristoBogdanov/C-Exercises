@@ -1,0 +1,10 @@
+D:\Homework\Homework\ДР - Информатика\Pazaruvane\Pazaruvane\bin\Debug\Pazaruvane.exe.config
+D:\Homework\Homework\ДР - Информатика\Pazaruvane\Pazaruvane\bin\Debug\Pazaruvane.exe
+D:\Homework\Homework\ДР - Информатика\Pazaruvane\Pazaruvane\bin\Debug\Pazaruvane.pdb
+D:\Homework\Homework\ДР - Информатика\Pazaruvane\Pazaruvane\obj\Debug\Pazaruvane.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\Pazaruvane\Pazaruvane\obj\Debug\Pazaruvane.Form1.resources
+D:\Homework\Homework\ДР - Информатика\Pazaruvane\Pazaruvane\obj\Debug\Pazaruvane.Properties.Resources.resources
+D:\Homework\Homework\ДР - Информатика\Pazaruvane\Pazaruvane\obj\Debug\Pazaruvane.csproj.GenerateResource.cache
+D:\Homework\Homework\ДР - Информатика\Pazaruvane\Pazaruvane\obj\Debug\Pazaruvane.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\Pazaruvane\Pazaruvane\obj\Debug\Pazaruvane.exe
+D:\Homework\Homework\ДР - Информатика\Pazaruvane\Pazaruvane\obj\Debug\Pazaruvane.pdb
