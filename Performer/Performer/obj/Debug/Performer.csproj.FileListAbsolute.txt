@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ДР - Информатика\Performer\Performer\bin\Debug\Performer.exe.config
+C:\Users\user\Desktop\ДР - Информатика\Performer\Performer\bin\Debug\Performer.exe
+C:\Users\user\Desktop\ДР - Информатика\Performer\Performer\bin\Debug\Performer.pdb
+C:\Users\user\Desktop\ДР - Информатика\Performer\Performer\obj\Debug\Performer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\Performer\Performer\obj\Debug\Performer.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\Performer\Performer\obj\Debug\Performer.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\Performer\Performer\obj\Debug\Performer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\Performer\Performer\obj\Debug\Performer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\Performer\Performer\obj\Debug\Performer.exe
+C:\Users\user\Desktop\ДР - Информатика\Performer\Performer\obj\Debug\Performer.pdb
