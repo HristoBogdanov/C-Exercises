@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ДР - Информатика\Person\Person\bin\Debug\Person.exe.config
+C:\Users\user\Desktop\ДР - Информатика\Person\Person\bin\Debug\Person.exe
+C:\Users\user\Desktop\ДР - Информатика\Person\Person\bin\Debug\Person.pdb
+C:\Users\user\Desktop\ДР - Информатика\Person\Person\obj\Debug\Person.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\Person\Person\obj\Debug\Person.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\Person\Person\obj\Debug\Person.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\Person\Person\obj\Debug\Person.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\Person\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\Person\Person\obj\Debug\Person.exe
+C:\Users\user\Desktop\ДР - Информатика\Person\Person\obj\Debug\Person.pdb
