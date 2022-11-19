@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\COVID-19\PhotoStudio\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.exe.config
+C:\Users\user\Desktop\COVID-19\PhotoStudio\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.exe
+C:\Users\user\Desktop\COVID-19\PhotoStudio\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.pdb
+C:\Users\user\Desktop\COVID-19\PhotoStudio\PhotoStudio\PhotoStudio\obj\Debug\PhotoStudio.csprojAssemblyReference.cache
+C:\Users\user\Desktop\COVID-19\PhotoStudio\PhotoStudio\PhotoStudio\obj\Debug\PhotoStudio.Form1.resources
+C:\Users\user\Desktop\COVID-19\PhotoStudio\PhotoStudio\PhotoStudio\obj\Debug\PhotoStudio.Properties.Resources.resources
+C:\Users\user\Desktop\COVID-19\PhotoStudio\PhotoStudio\PhotoStudio\obj\Debug\PhotoStudio.csproj.GenerateResource.cache
+C:\Users\user\Desktop\COVID-19\PhotoStudio\PhotoStudio\PhotoStudio\obj\Debug\PhotoStudio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\COVID-19\PhotoStudio\PhotoStudio\PhotoStudio\obj\Debug\PhotoStudio.exe
+C:\Users\user\Desktop\COVID-19\PhotoStudio\PhotoStudio\PhotoStudio\obj\Debug\PhotoStudio.pdb
+C:\Users\user\Desktop\COVID-19\PhotoStudio\PhotoStudio\PhotoStudio\obj\Debug\PhotoStudio.Form2.resources
+C:\Users\user\Desktop\COVID-19\PhotoStudio\PhotoStudio\PhotoStudio\obj\Debug\PhotoStudio.Form3.resources
