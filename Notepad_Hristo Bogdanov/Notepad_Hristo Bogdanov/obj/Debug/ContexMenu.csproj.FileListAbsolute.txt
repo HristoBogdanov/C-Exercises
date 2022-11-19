@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\COVID-19\ContexMenu\ContexMenu\bin\Debug\ContexMenu.exe.config
+C:\Users\user\Desktop\COVID-19\ContexMenu\ContexMenu\bin\Debug\ContexMenu.exe
+C:\Users\user\Desktop\COVID-19\ContexMenu\ContexMenu\bin\Debug\ContexMenu.pdb
+C:\Users\user\Desktop\COVID-19\ContexMenu\ContexMenu\obj\Debug\ContexMenu.csprojAssemblyReference.cache
+C:\Users\user\Desktop\COVID-19\ContexMenu\ContexMenu\obj\Debug\ContexMenu.Form1.resources
+C:\Users\user\Desktop\COVID-19\ContexMenu\ContexMenu\obj\Debug\ContexMenu.Properties.Resources.resources
+C:\Users\user\Desktop\COVID-19\ContexMenu\ContexMenu\obj\Debug\ContexMenu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\COVID-19\ContexMenu\ContexMenu\obj\Debug\ContexMenu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\COVID-19\ContexMenu\ContexMenu\obj\Debug\ContexMenu.exe
+C:\Users\user\Desktop\COVID-19\ContexMenu\ContexMenu\obj\Debug\ContexMenu.pdb
