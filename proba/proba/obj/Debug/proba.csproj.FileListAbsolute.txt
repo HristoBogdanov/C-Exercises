@@ -1,0 +1,10 @@
+D:\Homework\ДР - Информатика\proba\proba\bin\Debug\proba.exe.config
+D:\Homework\ДР - Информатика\proba\proba\bin\Debug\proba.exe
+D:\Homework\ДР - Информатика\proba\proba\bin\Debug\proba.pdb
+D:\Homework\ДР - Информатика\proba\proba\obj\Debug\proba.csprojAssemblyReference.cache
+D:\Homework\ДР - Информатика\proba\proba\obj\Debug\proba.Form1.resources
+D:\Homework\ДР - Информатика\proba\proba\obj\Debug\proba.Properties.Resources.resources
+D:\Homework\ДР - Информатика\proba\proba\obj\Debug\proba.csproj.GenerateResource.cache
+D:\Homework\ДР - Информатика\proba\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+D:\Homework\ДР - Информатика\proba\proba\obj\Debug\proba.exe
+D:\Homework\ДР - Информатика\proba\proba\obj\Debug\proba.pdb
