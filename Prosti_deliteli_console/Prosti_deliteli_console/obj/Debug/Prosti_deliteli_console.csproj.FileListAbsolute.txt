@@ -1,0 +1,7 @@
+D:\Homework\Homework\ДР - Информатика\Prosti_deliteli_console\Prosti_deliteli_console\bin\Debug\Prosti_deliteli_console.exe.config
+D:\Homework\Homework\ДР - Информатика\Prosti_deliteli_console\Prosti_deliteli_console\bin\Debug\Prosti_deliteli_console.exe
+D:\Homework\Homework\ДР - Информатика\Prosti_deliteli_console\Prosti_deliteli_console\bin\Debug\Prosti_deliteli_console.pdb
+D:\Homework\Homework\ДР - Информатика\Prosti_deliteli_console\Prosti_deliteli_console\obj\Debug\Prosti_deliteli_console.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\Prosti_deliteli_console\Prosti_deliteli_console\obj\Debug\Prosti_deliteli_console.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\Prosti_deliteli_console\Prosti_deliteli_console\obj\Debug\Prosti_deliteli_console.exe
+D:\Homework\Homework\ДР - Информатика\Prosti_deliteli_console\Prosti_deliteli_console\obj\Debug\Prosti_deliteli_console.pdb
