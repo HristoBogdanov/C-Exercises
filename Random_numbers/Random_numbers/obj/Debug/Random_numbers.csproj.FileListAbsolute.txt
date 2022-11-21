@@ -1,0 +1,10 @@
+D:\Homework\ДР - Информатика\Random_numbers\Random_numbers\bin\Debug\Random_numbers.exe.config
+D:\Homework\ДР - Информатика\Random_numbers\Random_numbers\bin\Debug\Random_numbers.exe
+D:\Homework\ДР - Информатика\Random_numbers\Random_numbers\bin\Debug\Random_numbers.pdb
+D:\Homework\ДР - Информатика\Random_numbers\Random_numbers\obj\Debug\Random_numbers.csprojAssemblyReference.cache
+D:\Homework\ДР - Информатика\Random_numbers\Random_numbers\obj\Debug\Random_numbers.Form1.resources
+D:\Homework\ДР - Информатика\Random_numbers\Random_numbers\obj\Debug\Random_numbers.Properties.Resources.resources
+D:\Homework\ДР - Информатика\Random_numbers\Random_numbers\obj\Debug\Random_numbers.csproj.GenerateResource.cache
+D:\Homework\ДР - Информатика\Random_numbers\Random_numbers\obj\Debug\Random_numbers.csproj.CoreCompileInputs.cache
+D:\Homework\ДР - Информатика\Random_numbers\Random_numbers\obj\Debug\Random_numbers.exe
+D:\Homework\ДР - Информатика\Random_numbers\Random_numbers\obj\Debug\Random_numbers.pdb
