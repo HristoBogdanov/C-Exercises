@@ -1,0 +1,7 @@
+D:\Homework\Homework\ДР - Информатика\regexExercises\regexExercises\bin\Debug\regexExercises.exe.config
+D:\Homework\Homework\ДР - Информатика\regexExercises\regexExercises\bin\Debug\regexExercises.exe
+D:\Homework\Homework\ДР - Информатика\regexExercises\regexExercises\bin\Debug\regexExercises.pdb
+D:\Homework\Homework\ДР - Информатика\regexExercises\regexExercises\obj\Debug\regexExercises.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\regexExercises\regexExercises\obj\Debug\regexExercises.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\regexExercises\regexExercises\obj\Debug\regexExercises.exe
+D:\Homework\Homework\ДР - Информатика\regexExercises\regexExercises\obj\Debug\regexExercises.pdb
