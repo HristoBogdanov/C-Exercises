@@ -1,0 +1,7 @@
+D:\Homework\Homework\ДР - Информатика\reverse_string\reverse_string\bin\Debug\reverse_string.exe.config
+D:\Homework\Homework\ДР - Информатика\reverse_string\reverse_string\bin\Debug\reverse_string.exe
+D:\Homework\Homework\ДР - Информатика\reverse_string\reverse_string\bin\Debug\reverse_string.pdb
+D:\Homework\Homework\ДР - Информатика\reverse_string\reverse_string\obj\Debug\reverse_string.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\reverse_string\reverse_string\obj\Debug\reverse_string.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\reverse_string\reverse_string\obj\Debug\reverse_string.exe
+D:\Homework\Homework\ДР - Информатика\reverse_string\reverse_string\obj\Debug\reverse_string.pdb
