@@ -1,0 +1,13 @@
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_Visual\bin\Debug\Rectangle_Visual.exe.config
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_Visual\bin\Debug\Rectangle_Visual.exe
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_Visual\bin\Debug\Rectangle_Visual.pdb
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_Visual\obj\Debug\Rectangle_Visual.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_Visual\obj\Debug\Rectangle_Visual.Form1.resources
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_Visual\obj\Debug\Rectangle_Visual.Properties.Resources.resources
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_Visual\obj\Debug\Rectangle_Visual.csproj.GenerateResource.cache
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_Visual\obj\Debug\Rectangle_Visual.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_Visual\obj\Debug\Rectangle_Visual.exe
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_Visual\obj\Debug\Rectangle_Visual.pdb
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_Visual\bin\Debug\Rectangle_console.exe
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_Visual\bin\Debug\Rectangle_console.pdb
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_Visual\bin\Debug\Rectangle_console.exe.config

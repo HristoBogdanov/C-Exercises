@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle_console", "Rectangle_console\Rectangle_console.csproj", "{486C29F2-8B4B-46FB-BEA9-1AC652022E01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle_Visual", "Rectangle_Visual\Rectangle_Visual.csproj", "{7187720A-DBD5-4306-A5F6-460E8D286391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{486C29F2-8B4B-46FB-BEA9-1AC652022E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486C29F2-8B4B-46FB-BEA9-1AC652022E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486C29F2-8B4B-46FB-BEA9-1AC652022E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486C29F2-8B4B-46FB-BEA9-1AC652022E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7187720A-DBD5-4306-A5F6-460E8D286391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7187720A-DBD5-4306-A5F6-460E8D286391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7187720A-DBD5-4306-A5F6-460E8D286391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7187720A-DBD5-4306-A5F6-460E8D286391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E6C4A30-2DB2-4432-883A-4CDDCC996306}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_console\bin\Debug\Rectangle_console.exe.config
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_console\bin\Debug\Rectangle_console.exe
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_console\bin\Debug\Rectangle_console.pdb
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_console\obj\Debug\Rectangle_console.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_console\obj\Debug\Rectangle_console.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_console\obj\Debug\Rectangle_console.exe
+D:\Homework\Homework\ДР - Информатика\Rectangle_console\Rectangle_console\obj\Debug\Rectangle_console.pdb
