@@ -1,0 +1,10 @@
+D:\Homework\ДР - Информатика\Stack_basic\Stack_basic\bin\Debug\Stack_basic.exe.config
+D:\Homework\ДР - Информатика\Stack_basic\Stack_basic\bin\Debug\Stack_basic.exe
+D:\Homework\ДР - Информатика\Stack_basic\Stack_basic\bin\Debug\Stack_basic.pdb
+D:\Homework\ДР - Информатика\Stack_basic\Stack_basic\obj\Debug\Stack_basic.csprojAssemblyReference.cache
+D:\Homework\ДР - Информатика\Stack_basic\Stack_basic\obj\Debug\Stack_basic.Form1.resources
+D:\Homework\ДР - Информатика\Stack_basic\Stack_basic\obj\Debug\Stack_basic.Properties.Resources.resources
+D:\Homework\ДР - Информатика\Stack_basic\Stack_basic\obj\Debug\Stack_basic.csproj.GenerateResource.cache
+D:\Homework\ДР - Информатика\Stack_basic\Stack_basic\obj\Debug\Stack_basic.csproj.CoreCompileInputs.cache
+D:\Homework\ДР - Информатика\Stack_basic\Stack_basic\obj\Debug\Stack_basic.exe
+D:\Homework\ДР - Информатика\Stack_basic\Stack_basic\obj\Debug\Stack_basic.pdb
