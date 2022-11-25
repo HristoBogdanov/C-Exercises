@@ -1,0 +1,10 @@
+D:\Homework\ДР - Информатика\Reverse_word\Reverse_word\bin\Debug\Reverse_word.exe.config
+D:\Homework\ДР - Информатика\Reverse_word\Reverse_word\bin\Debug\Reverse_word.exe
+D:\Homework\ДР - Информатика\Reverse_word\Reverse_word\bin\Debug\Reverse_word.pdb
+D:\Homework\ДР - Информатика\Reverse_word\Reverse_word\obj\Debug\Reverse_word.csprojAssemblyReference.cache
+D:\Homework\ДР - Информатика\Reverse_word\Reverse_word\obj\Debug\Reverse_word.Form1.resources
+D:\Homework\ДР - Информатика\Reverse_word\Reverse_word\obj\Debug\Reverse_word.Properties.Resources.resources
+D:\Homework\ДР - Информатика\Reverse_word\Reverse_word\obj\Debug\Reverse_word.csproj.GenerateResource.cache
+D:\Homework\ДР - Информатика\Reverse_word\Reverse_word\obj\Debug\Reverse_word.csproj.CoreCompileInputs.cache
+D:\Homework\ДР - Информатика\Reverse_word\Reverse_word\obj\Debug\Reverse_word.exe
+D:\Homework\ДР - Информатика\Reverse_word\Reverse_word\obj\Debug\Reverse_word.pdb
