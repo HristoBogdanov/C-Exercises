@@ -1,0 +1,10 @@
+D:\Homework\ДР - Информатика\string_reverse\string_reverse\bin\Debug\string_reverse.exe.config
+D:\Homework\ДР - Информатика\string_reverse\string_reverse\bin\Debug\string_reverse.exe
+D:\Homework\ДР - Информатика\string_reverse\string_reverse\bin\Debug\string_reverse.pdb
+D:\Homework\ДР - Информатика\string_reverse\string_reverse\obj\Debug\string_reverse.csprojAssemblyReference.cache
+D:\Homework\ДР - Информатика\string_reverse\string_reverse\obj\Debug\string_reverse.Form1.resources
+D:\Homework\ДР - Информатика\string_reverse\string_reverse\obj\Debug\string_reverse.Properties.Resources.resources
+D:\Homework\ДР - Информатика\string_reverse\string_reverse\obj\Debug\string_reverse.csproj.GenerateResource.cache
+D:\Homework\ДР - Информатика\string_reverse\string_reverse\obj\Debug\string_reverse.csproj.CoreCompileInputs.cache
+D:\Homework\ДР - Информатика\string_reverse\string_reverse\obj\Debug\string_reverse.exe
+D:\Homework\ДР - Информатика\string_reverse\string_reverse\obj\Debug\string_reverse.pdb
