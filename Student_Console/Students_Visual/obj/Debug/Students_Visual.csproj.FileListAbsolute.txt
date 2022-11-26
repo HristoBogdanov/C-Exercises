@@ -1,0 +1,13 @@
+D:\Homework\Homework\ДР - Информатика\Student_Console\Students_Visual\bin\Debug\Students_Visual.exe.config
+D:\Homework\Homework\ДР - Информатика\Student_Console\Students_Visual\bin\Debug\Students_Visual.exe
+D:\Homework\Homework\ДР - Информатика\Student_Console\Students_Visual\bin\Debug\Students_Visual.pdb
+D:\Homework\Homework\ДР - Информатика\Student_Console\Students_Visual\bin\Debug\Student_Console.exe
+D:\Homework\Homework\ДР - Информатика\Student_Console\Students_Visual\bin\Debug\Student_Console.pdb
+D:\Homework\Homework\ДР - Информатика\Student_Console\Students_Visual\bin\Debug\Student_Console.exe.config
+D:\Homework\Homework\ДР - Информатика\Student_Console\Students_Visual\obj\Debug\Students_Visual.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\Student_Console\Students_Visual\obj\Debug\Students_Visual.Form1.resources
+D:\Homework\Homework\ДР - Информатика\Student_Console\Students_Visual\obj\Debug\Students_Visual.Properties.Resources.resources
+D:\Homework\Homework\ДР - Информатика\Student_Console\Students_Visual\obj\Debug\Students_Visual.csproj.GenerateResource.cache
+D:\Homework\Homework\ДР - Информатика\Student_Console\Students_Visual\obj\Debug\Students_Visual.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\Student_Console\Students_Visual\obj\Debug\Students_Visual.exe
+D:\Homework\Homework\ДР - Информатика\Student_Console\Students_Visual\obj\Debug\Students_Visual.pdb

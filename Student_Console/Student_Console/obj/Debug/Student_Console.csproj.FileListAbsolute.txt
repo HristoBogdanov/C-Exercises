@@ -1,0 +1,7 @@
+D:\Homework\Homework\ДР - Информатика\Student_Console\Student_Console\bin\Debug\Student_Console.exe.config
+D:\Homework\Homework\ДР - Информатика\Student_Console\Student_Console\bin\Debug\Student_Console.exe
+D:\Homework\Homework\ДР - Информатика\Student_Console\Student_Console\bin\Debug\Student_Console.pdb
+D:\Homework\Homework\ДР - Информатика\Student_Console\Student_Console\obj\Debug\Student_Console.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\Student_Console\Student_Console\obj\Debug\Student_Console.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\Student_Console\Student_Console\obj\Debug\Student_Console.exe
+D:\Homework\Homework\ДР - Информатика\Student_Console\Student_Console\obj\Debug\Student_Console.pdb
