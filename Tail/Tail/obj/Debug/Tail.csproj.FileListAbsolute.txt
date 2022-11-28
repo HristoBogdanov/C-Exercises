@@ -1,0 +1,10 @@
+D:\Homework\ДР - Информатика\Tail\Tail\bin\Debug\Tail.exe.config
+D:\Homework\ДР - Информатика\Tail\Tail\bin\Debug\Tail.exe
+D:\Homework\ДР - Информатика\Tail\Tail\bin\Debug\Tail.pdb
+D:\Homework\ДР - Информатика\Tail\Tail\obj\Debug\Tail.csprojAssemblyReference.cache
+D:\Homework\ДР - Информатика\Tail\Tail\obj\Debug\Tail.Form1.resources
+D:\Homework\ДР - Информатика\Tail\Tail\obj\Debug\Tail.Properties.Resources.resources
+D:\Homework\ДР - Информатика\Tail\Tail\obj\Debug\Tail.csproj.GenerateResource.cache
+D:\Homework\ДР - Информатика\Tail\Tail\obj\Debug\Tail.csproj.CoreCompileInputs.cache
+D:\Homework\ДР - Информатика\Tail\Tail\obj\Debug\Tail.exe
+D:\Homework\ДР - Информатика\Tail\Tail\obj\Debug\Tail.pdb
