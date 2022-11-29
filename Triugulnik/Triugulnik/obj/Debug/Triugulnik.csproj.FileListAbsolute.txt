@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ДР - Информатика\Triugulnik\Triugulnik\bin\Debug\Triugulnik.exe.config
+C:\Users\user\Desktop\ДР - Информатика\Triugulnik\Triugulnik\bin\Debug\Triugulnik.exe
+C:\Users\user\Desktop\ДР - Информатика\Triugulnik\Triugulnik\bin\Debug\Triugulnik.pdb
+C:\Users\user\Desktop\ДР - Информатика\Triugulnik\Triugulnik\obj\Debug\Triugulnik.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\Triugulnik\Triugulnik\obj\Debug\Triugulnik.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\Triugulnik\Triugulnik\obj\Debug\Triugulnik.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\Triugulnik\Triugulnik\obj\Debug\Triugulnik.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\Triugulnik\Triugulnik\obj\Debug\Triugulnik.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\Triugulnik\Triugulnik\obj\Debug\Triugulnik.exe
+C:\Users\user\Desktop\ДР - Информатика\Triugulnik\Triugulnik\obj\Debug\Triugulnik.pdb
