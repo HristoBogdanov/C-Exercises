@@ -1,0 +1,7 @@
+D:\Homework\Homework\ДР - Информатика\Unarnost\Unarnost\bin\Debug\Unarnost.exe.config
+D:\Homework\Homework\ДР - Информатика\Unarnost\Unarnost\bin\Debug\Unarnost.exe
+D:\Homework\Homework\ДР - Информатика\Unarnost\Unarnost\bin\Debug\Unarnost.pdb
+D:\Homework\Homework\ДР - Информатика\Unarnost\Unarnost\obj\Debug\Unarnost.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\Unarnost\Unarnost\obj\Debug\Unarnost.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\Unarnost\Unarnost\obj\Debug\Unarnost.exe
+D:\Homework\Homework\ДР - Информатика\Unarnost\Unarnost\obj\Debug\Unarnost.pdb
