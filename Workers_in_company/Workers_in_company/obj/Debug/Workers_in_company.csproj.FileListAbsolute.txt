@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\ДР - Информатика\Workers_in_company\Workers_in_company\bin\Debug\Workers_in_company.exe.config
+C:\Users\user\Desktop\ДР - Информатика\Workers_in_company\Workers_in_company\bin\Debug\Workers_in_company.exe
+C:\Users\user\Desktop\ДР - Информатика\Workers_in_company\Workers_in_company\bin\Debug\Workers_in_company.pdb
+C:\Users\user\Desktop\ДР - Информатика\Workers_in_company\Workers_in_company\obj\Debug\Workers_in_company.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\Workers_in_company\Workers_in_company\obj\Debug\Workers_in_company.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\Workers_in_company\Workers_in_company\obj\Debug\Workers_in_company.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\Workers_in_company\Workers_in_company\obj\Debug\Workers_in_company.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\Workers_in_company\Workers_in_company\obj\Debug\Workers_in_company.exe
+C:\Users\user\Desktop\ДР - Информатика\Workers_in_company\Workers_in_company\obj\Debug\Workers_in_company.pdb
