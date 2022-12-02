@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\COVID-19\ДР1-Информатика\gradove\gradove\bin\Debug\gradove.exe.config
+C:\Users\user\Desktop\COVID-19\ДР1-Информатика\gradove\gradove\bin\Debug\gradove.exe
+C:\Users\user\Desktop\COVID-19\ДР1-Информатика\gradove\gradove\bin\Debug\gradove.pdb
+C:\Users\user\Desktop\COVID-19\ДР1-Информатика\gradove\gradove\obj\Debug\gradove.csprojAssemblyReference.cache
+C:\Users\user\Desktop\COVID-19\ДР1-Информатика\gradove\gradove\obj\Debug\gradove.Form1.resources
+C:\Users\user\Desktop\COVID-19\ДР1-Информатика\gradove\gradove\obj\Debug\gradove.Properties.Resources.resources
+C:\Users\user\Desktop\COVID-19\ДР1-Информатика\gradove\gradove\obj\Debug\gradove.csproj.GenerateResource.cache
+C:\Users\user\Desktop\COVID-19\ДР1-Информатика\gradove\gradove\obj\Debug\gradove.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\COVID-19\ДР1-Информатика\gradove\gradove\obj\Debug\gradove.exe
+C:\Users\user\Desktop\COVID-19\ДР1-Информатика\gradove\gradove\obj\Debug\gradove.pdb
