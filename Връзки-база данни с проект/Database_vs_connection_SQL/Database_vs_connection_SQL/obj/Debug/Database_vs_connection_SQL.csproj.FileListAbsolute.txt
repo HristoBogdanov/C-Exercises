@@ -1,0 +1,10 @@
+C:\Users\hrist\Desktop\Database_vs_connection_SQL\Database_vs_connection_SQL\bin\Debug\Database_vs_connection_SQL.exe.config
+C:\Users\hrist\Desktop\Database_vs_connection_SQL\Database_vs_connection_SQL\bin\Debug\Database_vs_connection_SQL.exe
+C:\Users\hrist\Desktop\Database_vs_connection_SQL\Database_vs_connection_SQL\bin\Debug\Database_vs_connection_SQL.pdb
+C:\Users\hrist\Desktop\Database_vs_connection_SQL\Database_vs_connection_SQL\obj\Debug\Database_vs_connection_SQL.csproj.AssemblyReference.cache
+C:\Users\hrist\Desktop\Database_vs_connection_SQL\Database_vs_connection_SQL\obj\Debug\Database_vs_connection_SQL.Form1.resources
+C:\Users\hrist\Desktop\Database_vs_connection_SQL\Database_vs_connection_SQL\obj\Debug\Database_vs_connection_SQL.Properties.Resources.resources
+C:\Users\hrist\Desktop\Database_vs_connection_SQL\Database_vs_connection_SQL\obj\Debug\Database_vs_connection_SQL.csproj.GenerateResource.cache
+C:\Users\hrist\Desktop\Database_vs_connection_SQL\Database_vs_connection_SQL\obj\Debug\Database_vs_connection_SQL.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\Database_vs_connection_SQL\Database_vs_connection_SQL\obj\Debug\Database_vs_connection_SQL.exe
+C:\Users\hrist\Desktop\Database_vs_connection_SQL\Database_vs_connection_SQL\obj\Debug\Database_vs_connection_SQL.pdb
