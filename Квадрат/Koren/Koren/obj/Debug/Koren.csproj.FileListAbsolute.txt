@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ДР - Информатика\Корен\Koren\Koren\bin\Debug\Koren.exe.config
+C:\Users\user\Desktop\ДР - Информатика\Корен\Koren\Koren\bin\Debug\Koren.exe
+C:\Users\user\Desktop\ДР - Информатика\Корен\Koren\Koren\bin\Debug\Koren.pdb
+C:\Users\user\Desktop\ДР - Информатика\Корен\Koren\Koren\obj\Debug\Koren.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\Корен\Koren\Koren\obj\Debug\Koren.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\Корен\Koren\Koren\obj\Debug\Koren.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\Корен\Koren\Koren\obj\Debug\Koren.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\Корен\Koren\Koren\obj\Debug\Koren.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\Корен\Koren\Koren\obj\Debug\Koren.exe
+C:\Users\user\Desktop\ДР - Информатика\Корен\Koren\Koren\obj\Debug\Koren.pdb
