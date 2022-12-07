@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\ДР - Информатика\Дроб\Drob\Drob\bin\Debug\Drob.exe.config
+C:\Users\user\Desktop\ДР - Информатика\Дроб\Drob\Drob\bin\Debug\Drob.exe
+C:\Users\user\Desktop\ДР - Информатика\Дроб\Drob\Drob\bin\Debug\Drob.pdb
+C:\Users\user\Desktop\ДР - Информатика\Дроб\Drob\Drob\obj\Debug\Drob.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\Дроб\Drob\Drob\obj\Debug\Drob.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\Дроб\Drob\Drob\obj\Debug\Drob.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\Дроб\Drob\Drob\obj\Debug\Drob.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\Дроб\Drob\Drob\obj\Debug\Drob.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\Дроб\Drob\Drob\obj\Debug\Drob.exe
+C:\Users\user\Desktop\ДР - Информатика\Дроб\Drob\Drob\obj\Debug\Drob.pdb
+D:\Домашна работа\ДР - Информатика\Обикновена дроб\Drob\Drob\bin\Debug\Drob.exe.config
+D:\Домашна работа\ДР - Информатика\Обикновена дроб\Drob\Drob\bin\Debug\Drob.exe
+D:\Домашна работа\ДР - Информатика\Обикновена дроб\Drob\Drob\bin\Debug\Drob.pdb
+D:\Домашна работа\ДР - Информатика\Обикновена дроб\Drob\Drob\obj\Debug\Drob.csprojAssemblyReference.cache
+D:\Домашна работа\ДР - Информатика\Обикновена дроб\Drob\Drob\obj\Debug\Drob.Form1.resources
+D:\Домашна работа\ДР - Информатика\Обикновена дроб\Drob\Drob\obj\Debug\Drob.Properties.Resources.resources
+D:\Домашна работа\ДР - Информатика\Обикновена дроб\Drob\Drob\obj\Debug\Drob.csproj.GenerateResource.cache
+D:\Домашна работа\ДР - Информатика\Обикновена дроб\Drob\Drob\obj\Debug\Drob.csproj.CoreCompileInputs.cache
+D:\Домашна работа\ДР - Информатика\Обикновена дроб\Drob\Drob\obj\Debug\Drob.exe
+D:\Домашна работа\ДР - Информатика\Обикновена дроб\Drob\Drob\obj\Debug\Drob.pdb
