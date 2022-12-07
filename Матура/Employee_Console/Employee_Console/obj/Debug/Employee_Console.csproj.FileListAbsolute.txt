@@ -1,0 +1,7 @@
+D:\Homework\Homework\ДР - Информатика\Матура\Employee_Console\Employee_Console\bin\Debug\Employee_Console.exe.config
+D:\Homework\Homework\ДР - Информатика\Матура\Employee_Console\Employee_Console\bin\Debug\Employee_Console.exe
+D:\Homework\Homework\ДР - Информатика\Матура\Employee_Console\Employee_Console\bin\Debug\Employee_Console.pdb
+D:\Homework\Homework\ДР - Информатика\Матура\Employee_Console\Employee_Console\obj\Debug\Employee_Console.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\Матура\Employee_Console\Employee_Console\obj\Debug\Employee_Console.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\Матура\Employee_Console\Employee_Console\obj\Debug\Employee_Console.exe
+D:\Homework\Homework\ДР - Информатика\Матура\Employee_Console\Employee_Console\obj\Debug\Employee_Console.pdb

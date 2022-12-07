@@ -1,0 +1,7 @@
+D:\Homework\Homework\ДР - Информатика\Матура\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Homework\Homework\ДР - Информатика\Матура\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Homework\Homework\ДР - Информатика\Матура\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Homework\Homework\ДР - Информатика\Матура\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Homework\Homework\ДР - Информатика\Матура\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Homework\Homework\ДР - Информатика\Матура\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Homework\Homework\ДР - Информатика\Матура\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
