@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ДР - Информатика\Компютърни езици и среди\Ezici_i_sredi\Ezici_i_sredi\bin\Debug\Ezici_i_sredi.exe.config
+C:\Users\user\Desktop\ДР - Информатика\Компютърни езици и среди\Ezici_i_sredi\Ezici_i_sredi\bin\Debug\Ezici_i_sredi.exe
+C:\Users\user\Desktop\ДР - Информатика\Компютърни езици и среди\Ezici_i_sredi\Ezici_i_sredi\bin\Debug\Ezici_i_sredi.pdb
+C:\Users\user\Desktop\ДР - Информатика\Компютърни езици и среди\Ezici_i_sredi\Ezici_i_sredi\obj\Debug\Ezici_i_sredi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\Компютърни езици и среди\Ezici_i_sredi\Ezici_i_sredi\obj\Debug\Ezici_i_sredi.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\Компютърни езици и среди\Ezici_i_sredi\Ezici_i_sredi\obj\Debug\Ezici_i_sredi.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\Компютърни езици и среди\Ezici_i_sredi\Ezici_i_sredi\obj\Debug\Ezici_i_sredi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\Компютърни езици и среди\Ezici_i_sredi\Ezici_i_sredi\obj\Debug\Ezici_i_sredi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\Компютърни езици и среди\Ezici_i_sredi\Ezici_i_sredi\obj\Debug\Ezici_i_sredi.exe
+C:\Users\user\Desktop\ДР - Информатика\Компютърни езици и среди\Ezici_i_sredi\Ezici_i_sredi\obj\Debug\Ezici_i_sredi.pdb
