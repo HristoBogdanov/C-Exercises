@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peshtera", "Peshtera\Peshtera.csproj", "{DD8C3880-C02C-4B6A-97A5-D8BB5CE5BA6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD8C3880-C02C-4B6A-97A5-D8BB5CE5BA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8C3880-C02C-4B6A-97A5-D8BB5CE5BA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8C3880-C02C-4B6A-97A5-D8BB5CE5BA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8C3880-C02C-4B6A-97A5-D8BB5CE5BA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7291C948-F20F-4D77-B8E2-5B9FB9AAE5C3}
+	EndGlobalSection
+EndGlobal

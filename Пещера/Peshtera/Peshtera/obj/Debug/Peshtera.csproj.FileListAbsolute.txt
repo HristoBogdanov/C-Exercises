@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\COVID-19\Пещера\Peshtera\Peshtera\bin\Debug\Peshtera.exe.config
+C:\Users\user\Desktop\COVID-19\Пещера\Peshtera\Peshtera\bin\Debug\Peshtera.exe
+C:\Users\user\Desktop\COVID-19\Пещера\Peshtera\Peshtera\bin\Debug\Peshtera.pdb
+C:\Users\user\Desktop\COVID-19\Пещера\Peshtera\Peshtera\obj\Debug\Peshtera.csprojAssemblyReference.cache
+C:\Users\user\Desktop\COVID-19\Пещера\Peshtera\Peshtera\obj\Debug\Peshtera.Form1.resources
+C:\Users\user\Desktop\COVID-19\Пещера\Peshtera\Peshtera\obj\Debug\Peshtera.Form2.resources
+C:\Users\user\Desktop\COVID-19\Пещера\Peshtera\Peshtera\obj\Debug\Peshtera.Properties.Resources.resources
+C:\Users\user\Desktop\COVID-19\Пещера\Peshtera\Peshtera\obj\Debug\Peshtera.csproj.GenerateResource.cache
+C:\Users\user\Desktop\COVID-19\Пещера\Peshtera\Peshtera\obj\Debug\Peshtera.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\COVID-19\Пещера\Peshtera\Peshtera\obj\Debug\Peshtera.exe
+C:\Users\user\Desktop\COVID-19\Пещера\Peshtera\Peshtera\obj\Debug\Peshtera.pdb
