@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ДР - Информатика\Планини и реки\Planini\Planini\bin\Debug\Planini.exe.config
+C:\Users\user\Desktop\ДР - Информатика\Планини и реки\Planini\Planini\bin\Debug\Planini.exe
+C:\Users\user\Desktop\ДР - Информатика\Планини и реки\Planini\Planini\bin\Debug\Planini.pdb
+C:\Users\user\Desktop\ДР - Информатика\Планини и реки\Planini\Planini\obj\Debug\Planini.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\Планини и реки\Planini\Planini\obj\Debug\Planini.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\Планини и реки\Planini\Planini\obj\Debug\Planini.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\Планини и реки\Planini\Planini\obj\Debug\Planini.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\Планини и реки\Planini\Planini\obj\Debug\Planini.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\Планини и реки\Planini\Planini\obj\Debug\Planini.exe
+C:\Users\user\Desktop\ДР - Информатика\Планини и реки\Planini\Planini\obj\Debug\Planini.pdb
