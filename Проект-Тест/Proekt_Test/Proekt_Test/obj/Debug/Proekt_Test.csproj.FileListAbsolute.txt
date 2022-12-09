@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\COVID-19\Проект-Тест\Proekt_Test\Proekt_Test\bin\Debug\Proekt_Test.exe.config
+C:\Users\user\Desktop\COVID-19\Проект-Тест\Proekt_Test\Proekt_Test\bin\Debug\Proekt_Test.exe
+C:\Users\user\Desktop\COVID-19\Проект-Тест\Proekt_Test\Proekt_Test\bin\Debug\Proekt_Test.pdb
+C:\Users\user\Desktop\COVID-19\Проект-Тест\Proekt_Test\Proekt_Test\obj\Debug\Proekt_Test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\COVID-19\Проект-Тест\Proekt_Test\Proekt_Test\obj\Debug\Proekt_Test.Form1.resources
+C:\Users\user\Desktop\COVID-19\Проект-Тест\Proekt_Test\Proekt_Test\obj\Debug\Proekt_Test.Properties.Resources.resources
+C:\Users\user\Desktop\COVID-19\Проект-Тест\Proekt_Test\Proekt_Test\obj\Debug\Proekt_Test.csproj.GenerateResource.cache
+C:\Users\user\Desktop\COVID-19\Проект-Тест\Proekt_Test\Proekt_Test\obj\Debug\Proekt_Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\COVID-19\Проект-Тест\Proekt_Test\Proekt_Test\obj\Debug\Proekt_Test.exe
+C:\Users\user\Desktop\COVID-19\Проект-Тест\Proekt_Test\Proekt_Test\obj\Debug\Proekt_Test.pdb
+C:\Users\user\Desktop\COVID-19\Проект-Тест\Proekt_Test\Proekt_Test\obj\Debug\Proekt_Test.Form2.resources
+C:\Users\user\Desktop\COVID-19\Проект-Тест\Proekt_Test\Proekt_Test\obj\Debug\Proekt_Test.Form3.resources
+C:\Users\user\Desktop\COVID-19\Проект-Тест\Proekt_Test\Proekt_Test\obj\Debug\Proekt_Test.Form4.resources
+C:\Users\user\Desktop\COVID-19\Проект-Тест\Proekt_Test\Proekt_Test\obj\Debug\Proekt_Test.Form5.resources
+C:\Users\user\Desktop\COVID-19\Проект-Тест\Proekt_Test\Proekt_Test\obj\Debug\Proekt_Test.Form6.resources
