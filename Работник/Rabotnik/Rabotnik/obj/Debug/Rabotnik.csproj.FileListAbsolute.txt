@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ДР - Информатика\Работник\Rabotnik\Rabotnik\bin\Debug\Rabotnik.exe.config
+C:\Users\user\Desktop\ДР - Информатика\Работник\Rabotnik\Rabotnik\bin\Debug\Rabotnik.exe
+C:\Users\user\Desktop\ДР - Информатика\Работник\Rabotnik\Rabotnik\bin\Debug\Rabotnik.pdb
+C:\Users\user\Desktop\ДР - Информатика\Работник\Rabotnik\Rabotnik\obj\Debug\Rabotnik.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДР - Информатика\Работник\Rabotnik\Rabotnik\obj\Debug\Rabotnik.Form1.resources
+C:\Users\user\Desktop\ДР - Информатика\Работник\Rabotnik\Rabotnik\obj\Debug\Rabotnik.Properties.Resources.resources
+C:\Users\user\Desktop\ДР - Информатика\Работник\Rabotnik\Rabotnik\obj\Debug\Rabotnik.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДР - Информатика\Работник\Rabotnik\Rabotnik\obj\Debug\Rabotnik.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДР - Информатика\Работник\Rabotnik\Rabotnik\obj\Debug\Rabotnik.exe
+C:\Users\user\Desktop\ДР - Информатика\Работник\Rabotnik\Rabotnik\obj\Debug\Rabotnik.pdb
