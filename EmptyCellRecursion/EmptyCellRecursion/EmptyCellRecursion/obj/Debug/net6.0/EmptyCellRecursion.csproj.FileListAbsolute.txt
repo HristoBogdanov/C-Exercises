@@ -1,0 +1,15 @@
+D:\Homework\C#\EmptyCellRecursion\EmptyCellRecursion\EmptyCellRecursion\bin\Debug\net6.0\EmptyCellRecursion.exe
+D:\Homework\C#\EmptyCellRecursion\EmptyCellRecursion\EmptyCellRecursion\bin\Debug\net6.0\EmptyCellRecursion.deps.json
+D:\Homework\C#\EmptyCellRecursion\EmptyCellRecursion\EmptyCellRecursion\bin\Debug\net6.0\EmptyCellRecursion.runtimeconfig.json
+D:\Homework\C#\EmptyCellRecursion\EmptyCellRecursion\EmptyCellRecursion\bin\Debug\net6.0\EmptyCellRecursion.dll
+D:\Homework\C#\EmptyCellRecursion\EmptyCellRecursion\EmptyCellRecursion\bin\Debug\net6.0\EmptyCellRecursion.pdb
+D:\Homework\C#\EmptyCellRecursion\EmptyCellRecursion\EmptyCellRecursion\obj\Debug\net6.0\EmptyCellRecursion.csproj.AssemblyReference.cache
+D:\Homework\C#\EmptyCellRecursion\EmptyCellRecursion\EmptyCellRecursion\obj\Debug\net6.0\EmptyCellRecursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\C#\EmptyCellRecursion\EmptyCellRecursion\EmptyCellRecursion\obj\Debug\net6.0\EmptyCellRecursion.AssemblyInfoInputs.cache
+D:\Homework\C#\EmptyCellRecursion\EmptyCellRecursion\EmptyCellRecursion\obj\Debug\net6.0\EmptyCellRecursion.AssemblyInfo.cs
+D:\Homework\C#\EmptyCellRecursion\EmptyCellRecursion\EmptyCellRecursion\obj\Debug\net6.0\EmptyCellRecursion.csproj.CoreCompileInputs.cache
+D:\Homework\C#\EmptyCellRecursion\EmptyCellRecursion\EmptyCellRecursion\obj\Debug\net6.0\EmptyCellRecursion.dll
+D:\Homework\C#\EmptyCellRecursion\EmptyCellRecursion\EmptyCellRecursion\obj\Debug\net6.0\refint\EmptyCellRecursion.dll
+D:\Homework\C#\EmptyCellRecursion\EmptyCellRecursion\EmptyCellRecursion\obj\Debug\net6.0\EmptyCellRecursion.pdb
+D:\Homework\C#\EmptyCellRecursion\EmptyCellRecursion\EmptyCellRecursion\obj\Debug\net6.0\EmptyCellRecursion.genruntimeconfig.cache
+D:\Homework\C#\EmptyCellRecursion\EmptyCellRecursion\EmptyCellRecursion\obj\Debug\net6.0\ref\EmptyCellRecursion.dll
