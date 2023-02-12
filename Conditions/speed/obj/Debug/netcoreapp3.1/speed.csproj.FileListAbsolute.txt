@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Conditions\Conditions\speed\bin\Debug\netcoreapp3.1\speed.exe
+D:\SoftUni\Basics - C#\Conditions\Conditions\speed\bin\Debug\netcoreapp3.1\speed.deps.json
+D:\SoftUni\Basics - C#\Conditions\Conditions\speed\bin\Debug\netcoreapp3.1\speed.runtimeconfig.json
+D:\SoftUni\Basics - C#\Conditions\Conditions\speed\bin\Debug\netcoreapp3.1\speed.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Conditions\Conditions\speed\bin\Debug\netcoreapp3.1\speed.dll
+D:\SoftUni\Basics - C#\Conditions\Conditions\speed\bin\Debug\netcoreapp3.1\speed.pdb
+D:\SoftUni\Basics - C#\Conditions\Conditions\speed\obj\Debug\netcoreapp3.1\speed.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Conditions\Conditions\speed\obj\Debug\netcoreapp3.1\speed.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Conditions\Conditions\speed\obj\Debug\netcoreapp3.1\speed.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Conditions\Conditions\speed\obj\Debug\netcoreapp3.1\speed.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Conditions\Conditions\speed\obj\Debug\netcoreapp3.1\speed.dll
+D:\SoftUni\Basics - C#\Conditions\Conditions\speed\obj\Debug\netcoreapp3.1\speed.pdb
+D:\SoftUni\Basics - C#\Conditions\Conditions\speed\obj\Debug\netcoreapp3.1\speed.genruntimeconfig.cache
