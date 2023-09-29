@@ -1,0 +1,15 @@
+D:\Homework\C#\Algorithms\Algorithms\ToBinary\bin\Debug\net6.0\ToBinary.exe
+D:\Homework\C#\Algorithms\Algorithms\ToBinary\bin\Debug\net6.0\ToBinary.deps.json
+D:\Homework\C#\Algorithms\Algorithms\ToBinary\bin\Debug\net6.0\ToBinary.runtimeconfig.json
+D:\Homework\C#\Algorithms\Algorithms\ToBinary\bin\Debug\net6.0\ToBinary.dll
+D:\Homework\C#\Algorithms\Algorithms\ToBinary\bin\Debug\net6.0\ToBinary.pdb
+D:\Homework\C#\Algorithms\Algorithms\ToBinary\obj\Debug\net6.0\ToBinary.csproj.AssemblyReference.cache
+D:\Homework\C#\Algorithms\Algorithms\ToBinary\obj\Debug\net6.0\ToBinary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\C#\Algorithms\Algorithms\ToBinary\obj\Debug\net6.0\ToBinary.AssemblyInfoInputs.cache
+D:\Homework\C#\Algorithms\Algorithms\ToBinary\obj\Debug\net6.0\ToBinary.AssemblyInfo.cs
+D:\Homework\C#\Algorithms\Algorithms\ToBinary\obj\Debug\net6.0\ToBinary.csproj.CoreCompileInputs.cache
+D:\Homework\C#\Algorithms\Algorithms\ToBinary\obj\Debug\net6.0\ToBinary.dll
+D:\Homework\C#\Algorithms\Algorithms\ToBinary\obj\Debug\net6.0\refint\ToBinary.dll
+D:\Homework\C#\Algorithms\Algorithms\ToBinary\obj\Debug\net6.0\ToBinary.pdb
+D:\Homework\C#\Algorithms\Algorithms\ToBinary\obj\Debug\net6.0\ToBinary.genruntimeconfig.cache
+D:\Homework\C#\Algorithms\Algorithms\ToBinary\obj\Debug\net6.0\ref\ToBinary.dll

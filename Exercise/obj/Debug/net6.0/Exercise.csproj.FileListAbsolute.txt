@@ -1,0 +1,15 @@
+D:\Homework\C#\Algorithms\Algorithms\Exercise\bin\Debug\net6.0\Exercise.exe
+D:\Homework\C#\Algorithms\Algorithms\Exercise\bin\Debug\net6.0\Exercise.deps.json
+D:\Homework\C#\Algorithms\Algorithms\Exercise\bin\Debug\net6.0\Exercise.runtimeconfig.json
+D:\Homework\C#\Algorithms\Algorithms\Exercise\bin\Debug\net6.0\Exercise.dll
+D:\Homework\C#\Algorithms\Algorithms\Exercise\bin\Debug\net6.0\Exercise.pdb
+D:\Homework\C#\Algorithms\Algorithms\Exercise\obj\Debug\net6.0\Exercise.csproj.AssemblyReference.cache
+D:\Homework\C#\Algorithms\Algorithms\Exercise\obj\Debug\net6.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\C#\Algorithms\Algorithms\Exercise\obj\Debug\net6.0\Exercise.AssemblyInfoInputs.cache
+D:\Homework\C#\Algorithms\Algorithms\Exercise\obj\Debug\net6.0\Exercise.AssemblyInfo.cs
+D:\Homework\C#\Algorithms\Algorithms\Exercise\obj\Debug\net6.0\Exercise.csproj.CoreCompileInputs.cache
+D:\Homework\C#\Algorithms\Algorithms\Exercise\obj\Debug\net6.0\Exercise.dll
+D:\Homework\C#\Algorithms\Algorithms\Exercise\obj\Debug\net6.0\refint\Exercise.dll
+D:\Homework\C#\Algorithms\Algorithms\Exercise\obj\Debug\net6.0\Exercise.pdb
+D:\Homework\C#\Algorithms\Algorithms\Exercise\obj\Debug\net6.0\Exercise.genruntimeconfig.cache
+D:\Homework\C#\Algorithms\Algorithms\Exercise\obj\Debug\net6.0\ref\Exercise.dll
