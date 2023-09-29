@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "u6+6zT3lvcPLwXi6G4Psz5WJb0TVj7ByP7D9CGKukW8=",
+  "Source": "ProjectManagement",
+  "BasePath": "_content/ProjectManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjectManagement\\wwwroot",
+      "Source": "ProjectManagement",
+      "ContentRoot": "C:\\Users\\Hristo\\Desktop\\ProjectManagement\\wwwroot\\",
+      "BasePath": "_content/ProjectManagement",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hristo\\Desktop\\ProjectManagement\\wwwroot\\site.css",
+      "SourceId": "ProjectManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hristo\\Desktop\\ProjectManagement\\wwwroot\\",
+      "BasePath": "_content/ProjectManagement",
+      "RelativePath": "site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\site.css"
+    }
+  ]
+}
