@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exam-zad2", "Exam-zad2\Exam-zad2.vcxproj", "{F7E44BC0-CAE8-4F1F-8071-9412CC2C7090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7E44BC0-CAE8-4F1F-8071-9412CC2C7090}.Debug|x64.ActiveCfg = Debug|x64
+		{F7E44BC0-CAE8-4F1F-8071-9412CC2C7090}.Debug|x64.Build.0 = Debug|x64
+		{F7E44BC0-CAE8-4F1F-8071-9412CC2C7090}.Debug|x86.ActiveCfg = Debug|Win32
+		{F7E44BC0-CAE8-4F1F-8071-9412CC2C7090}.Debug|x86.Build.0 = Debug|Win32
+		{F7E44BC0-CAE8-4F1F-8071-9412CC2C7090}.Release|x64.ActiveCfg = Release|x64
+		{F7E44BC0-CAE8-4F1F-8071-9412CC2C7090}.Release|x64.Build.0 = Release|x64
+		{F7E44BC0-CAE8-4F1F-8071-9412CC2C7090}.Release|x86.ActiveCfg = Release|Win32
+		{F7E44BC0-CAE8-4F1F-8071-9412CC2C7090}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE73C00C-0DB9-4EBE-8E34-6A689822933D}
+	EndGlobalSection
+EndGlobal
