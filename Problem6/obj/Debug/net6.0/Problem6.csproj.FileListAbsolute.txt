@@ -1,0 +1,15 @@
+D:\Homework\C#\HristoBogdanov_2201322001_Homework\HristoBogdanov_2201322001_Homework\Problem6\bin\Debug\net6.0\Problem6.exe
+D:\Homework\C#\HristoBogdanov_2201322001_Homework\HristoBogdanov_2201322001_Homework\Problem6\bin\Debug\net6.0\Problem6.deps.json
+D:\Homework\C#\HristoBogdanov_2201322001_Homework\HristoBogdanov_2201322001_Homework\Problem6\bin\Debug\net6.0\Problem6.runtimeconfig.json
+D:\Homework\C#\HristoBogdanov_2201322001_Homework\HristoBogdanov_2201322001_Homework\Problem6\bin\Debug\net6.0\Problem6.dll
+D:\Homework\C#\HristoBogdanov_2201322001_Homework\HristoBogdanov_2201322001_Homework\Problem6\bin\Debug\net6.0\Problem6.pdb
+D:\Homework\C#\HristoBogdanov_2201322001_Homework\HristoBogdanov_2201322001_Homework\Problem6\obj\Debug\net6.0\Problem6.csproj.AssemblyReference.cache
+D:\Homework\C#\HristoBogdanov_2201322001_Homework\HristoBogdanov_2201322001_Homework\Problem6\obj\Debug\net6.0\Problem6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\C#\HristoBogdanov_2201322001_Homework\HristoBogdanov_2201322001_Homework\Problem6\obj\Debug\net6.0\Problem6.AssemblyInfoInputs.cache
+D:\Homework\C#\HristoBogdanov_2201322001_Homework\HristoBogdanov_2201322001_Homework\Problem6\obj\Debug\net6.0\Problem6.AssemblyInfo.cs
+D:\Homework\C#\HristoBogdanov_2201322001_Homework\HristoBogdanov_2201322001_Homework\Problem6\obj\Debug\net6.0\Problem6.csproj.CoreCompileInputs.cache
+D:\Homework\C#\HristoBogdanov_2201322001_Homework\HristoBogdanov_2201322001_Homework\Problem6\obj\Debug\net6.0\Problem6.dll
+D:\Homework\C#\HristoBogdanov_2201322001_Homework\HristoBogdanov_2201322001_Homework\Problem6\obj\Debug\net6.0\refint\Problem6.dll
+D:\Homework\C#\HristoBogdanov_2201322001_Homework\HristoBogdanov_2201322001_Homework\Problem6\obj\Debug\net6.0\Problem6.pdb
+D:\Homework\C#\HristoBogdanov_2201322001_Homework\HristoBogdanov_2201322001_Homework\Problem6\obj\Debug\net6.0\Problem6.genruntimeconfig.cache
+D:\Homework\C#\HristoBogdanov_2201322001_Homework\HristoBogdanov_2201322001_Homework\Problem6\obj\Debug\net6.0\ref\Problem6.dll
